@@ -1,6 +1,6 @@
-# sg_demo
+# Flutter Lets See Some Images
 
-A new Flutter project.
+A new Flutter project, build while practicing......
 
 ## Getting Started
 
